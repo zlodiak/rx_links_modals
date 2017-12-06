@@ -1,0 +1,15 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+	ul{
+		width: 100%;
+		background: cyan
+	}
+
+		li{
+			display: inline-block;
+			background: orange;
+		}
+
